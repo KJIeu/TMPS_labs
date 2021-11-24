@@ -1,11 +1,12 @@
 # Laboratory Work Nr. 2
+## Author: Boico Alexandr
 
 ### Objectives
  - Study the structural creation patterns;
  - Implement several of them in a program;
 
 ### Task
-Create a program which implements 5 Structural Design Patterns.
+Create a program which implements some(at least 3) Structural Design Patterns.
 
 ### Theory
 In Software Engineering, Structural Design Patterns are Design Patterns that ease the design by identifying a simple way to realize
